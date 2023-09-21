@@ -37,6 +37,7 @@
             <h1 class="display-4 text-primary">Selamat Datang di Panel Admin Website Absensi</h1>
             </div>
         </div>
+        
         </row>
     </div>
     <!-- /.container-fluid -->
